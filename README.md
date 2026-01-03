@@ -4,7 +4,7 @@ This repository accompanies the preprint:
 
 Maximum Hidden Irreversibility Reveals Latent Rotational Dynamics and Serves as an Early Indicator of Emergent Grokking  
 Inna Alieksieienko, 2026  
-DOI: [https://doi.org/XXXX](https://doi.org/10.5281/zenodo.18141310)
+DOI:(https://doi.org/10.5281/zenodo.18141310)
 
 ---
 
